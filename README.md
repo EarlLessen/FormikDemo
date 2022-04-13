@@ -35,7 +35,7 @@ terminal: npm run ios`
 ## Resources for Formik
 Docs - https://formik.org/docs/overview
 
-React Nstive - https://formik.org/docs/guides/react-native
+React Native - https://formik.org/docs/guides/react-native
 
 ## License
 
